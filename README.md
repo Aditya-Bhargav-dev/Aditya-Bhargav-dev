@@ -5,7 +5,7 @@
 -->
 
 
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">Iam a .Net developer by Profession and Frontend Developer by passion.</h3>
 <p> 🌱 I’m currently learning Mern Stack </p>
 <p> 📫 How to reach me: https://www.linkedin.com/in/aditya-bhargav/ </p>
 
