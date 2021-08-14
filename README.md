@@ -7,7 +7,7 @@
 
 <h3 align="center">A .Net Developer by Profession and Frontend Developer by Passion.</h3>
 <p> 🌱 I’m currently learning Mern Stack </p>
-<p> 📫 How to reach me: https://www.linkedin.com/in/aditya-bhargav/ </p>
+<p> 📫 How to reach me: https://www.linkedin.com/in/aditya-bhargav/ or <a href="mailto:adityabarghav788@gmail.com">Aditya Bhargav</a> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-bhargav-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-bhargav-dev" /> </p>
