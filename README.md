@@ -5,7 +5,7 @@
 -->
 
 
-<h3 align="center">Python and Django Full Stack Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 <p> 🌱 Coding Enthusiast </p>
 <p> 📫 How to reach me: https://www.linkedin.com/in/aditya-bhargav/ or <a href="mailto:adityabarghav788@gmail.com">Aditya Bhargav</a> </p>
 
