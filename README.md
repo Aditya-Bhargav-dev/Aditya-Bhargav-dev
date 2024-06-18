@@ -1,28 +1,93 @@
-### Hi 👋, I'm Aditya Bhargav
+<p align="center">
+<a href="https://github.com/Aditya-Bhargav-dev">
+  <img src="https://media.licdn.com/dms/image/D5616AQHlQT_0GfDiMw/profile-displaybackgroundimage-shrink_350_1400/0/1718283225489?e=1724284800&v=beta&t=Z-1JOzesdDYZSaw8I6FjgprLtFK-TOLbww9XEvR5EFU"/>
+</a>
+</p>
+<br><br>
+<p align="center"> <a href="https://www.linkedin.com/in/aditya-bhargav/">
+  <img align="left" alt="Aditya's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
+</a>
+</p>
 
-<!--
-**Aditya-Bhargav-dev/Aditya-Bhargav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## <p align="center">
+<h4 align="center"><samp>A Software Developer, an Open-Source Contributor, and a Programming enthusiast </samp></h4></p>
+
+<br>
+
+<p align="center">
+  <img src="/static/stack.gif">           
+</p>
+
+## 🛠 Tech Stack:
+
+<p align="center">
+  <img src="/static/tools.png">             
+</p>
+
+### 💻 Languages:
 
 
-<h3 align="center">Software Developer</h3>
-<p> 🌱 Coding Enthusiast </p>
-<p> 📫 How to reach me: https://www.linkedin.com/in/aditya-bhargav/ or <a href="mailto:adityabarghav788@gmail.com">Aditya Bhargav</a> </p>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
+![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp;
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-bhargav-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-bhargav-dev" /> </p>
+### 🚀 Technologies:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-bhargav-dev" alt="aditya-bhargav-dev" /></a> </p>
+![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Angular](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=angular)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net)&nbsp;
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+
+### 👩‍💻 Ide's:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)&nbsp;
+![Google Collab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)&nbsp;
+
+### ⚡ Others:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
+
+### 📈 Statistics:
+
+<p align="center">
+<a href="https://leetcode.com/Aditya_Bhargav">
+<img width="40%" src="https://leetcode.card.workers.dev/Aditya_Bhargav?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aditya-Bhargav-dev">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Bhargav-dev&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhargav-dev&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhargav-dev&show_icons=true&theme=github_dark&hide_border=true" alt="aditya-bhargav-dev" />    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhargav-dev&show_icons=true&theme=github_dark&hide_border=true"/>
+</a>
+</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-bhargav-dev&show_icons=true&locale=en&layout=compact" alt="aditya-bhargav-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-bhargav-dev&show_icons=true&locale=en" alt="aditya-bhargav-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhargav-dev&" alt="aditya-bhargav-dev" /></p>
-
-
-
+## 🏆 GitHub Trophy:
+<p align="center">
+<a href="https://github.com/Aditya-Bhargav-dev/">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aditya-Bhargav-dev&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
