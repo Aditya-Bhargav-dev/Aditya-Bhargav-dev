@@ -1,17 +1,6 @@
-<p align="center">
-<a href="https://github.com/Aditya-Bhargav-dev">
-  <img src="https://media.licdn.com/dms/image/D5616AQHlQT_0GfDiMw/profile-displaybackgroundimage-shrink_350_1400/0/1718283225489?e=1724284800&v=beta&t=Z-1JOzesdDYZSaw8I6FjgprLtFK-TOLbww9XEvR5EFU"/>
-</a>
-</p>
-<br><br>
-<p align="center"> <a href="https://www.linkedin.com/in/aditya-bhargav/">
-  <img align="left" alt="Aditya's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
-</a>
-</p>
-
 ## <p align="center">
-<h4 align="center"><samp>A Software Developer, an Open-Source Contributor, and a Programming enthusiast </samp></h4></p>
-
+<h2 align="center"><samp>A Software Developer, and a Programming enthusiast </samp></h2></p>
+</p>
 <br>
 
 <p align="center">
