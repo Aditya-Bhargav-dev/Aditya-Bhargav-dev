@@ -3,15 +3,7 @@
 </p>
 <br>
 
-<p align="center">
-  <img src="/static/stack.gif">           
-</p>
 
-## 🛠 Tech Stack:
-
-<p align="center">
-  <img src="/static/tools.png">             
-</p>
 
 ### 💻 Languages:
 
@@ -79,4 +71,14 @@
 <a href="https://github.com/Aditya-Bhargav-dev/">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aditya-Bhargav-dev&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
+</p>
+
+
+
+## 🛠 Tech Stack:
+<p align="center">
+  <img src="/static/stack.gif">           
+</p>
+<p align="center">
+  <img src="/static/tools.png">             
 </p>
